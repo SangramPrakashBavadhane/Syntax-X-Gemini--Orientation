@@ -1,0 +1,68 @@
+/* ==========================================
+   LESSON 5: HTML STRUCTURE & SELECTORS FRAMEWORK
+   (Contains class selectors corresponding to index.html with empty CSS bodies)
+   ========================================== */
+
+/* Main Container */
+.container {
+}
+
+/* Header Section */
+.header {
+}
+
+.header h1 {
+}
+
+.header p {
+}
+
+/* 3-Column Card Grid */
+.card-container {
+}
+
+.card {
+}
+
+/* Card Image Box */
+.card-image-box {
+}
+
+.card-image-box img {
+}
+
+/* Card Titles & Paragraphs */
+.card h3 {
+}
+
+.card p {
+}
+
+/* Badges */
+.badge {
+}
+
+/* Student Section */
+.student-section {
+}
+
+.student-section h2 {
+}
+
+.steps-grid {
+}
+
+.step-card {
+}
+
+.step-number {
+}
+
+.step-content {
+}
+
+.step-content h4 {
+}
+
+.step-content p {
+}
